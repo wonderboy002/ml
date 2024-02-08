@@ -122,7 +122,3 @@ steps,path = solveBFS(initial, goal)
 print("Puzzle solved with ", steps, "Steps")
 print("Path taken from initial state : ",path)
 
-# Down  Right  Down  Left  UP  UP  Left  Down  Down  Right  UP  Left  UP  Right  Down  Down  Right
-([1,2,3],
- [4,5,6],
- [7,8,0])
